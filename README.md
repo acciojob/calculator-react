@@ -6,7 +6,7 @@ The task is to create a react based calculator which can perform the following o
 -  Division
 -  Multiplication
 -  Clear All
--  Eqauls to
+-  Equals to
 
 
 
